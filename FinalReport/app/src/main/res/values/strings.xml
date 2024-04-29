@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalReport</string>
+    <string name="dialog_message">에 대한 리뷰를 삭제하시겠습니까?</string>
+    <string name="dialog_ok">확인</string>
+    <string name="dialog_cancel">취소</string>
+    <string name="dialog_developer">동덕여자대학교 컴퓨터학과 20190952 김주희 - 모바일소프트웨어 01분반</string>
+    <string name="dialog_finish">앱을 종료하시겠습니까?</string>
+</resources>
